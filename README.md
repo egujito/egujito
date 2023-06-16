@@ -27,3 +27,6 @@
 - [iss-matplotlib](https://github.com/egujito/iss.matplotlib) - ISS api plotter - Python
 - [sdl2-tic-tac-toe](https://github.com/egujito/sdl2-tic-tac-toe) - tic-tac-toe game using SDL2 - C
 - [sfml2-tic-tac-toe](https://github.com/egujito/sfml-tic-tac-toe) - tic-tac-toe game using SFML2 - C++
+
+### Languages:
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=egujito&theme=gruvbox&layout=compact)
