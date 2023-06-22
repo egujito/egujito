@@ -6,7 +6,7 @@
 
 # My rice 🍚
 
-![rice](https://raw.githubusercontent.com/egujito/suckless-repos/master/wm.png)
+![rice](https://raw.githubusercontent.com/egujito/qtile/master/cbonsai.png)
 
  ##
  # 🐧 GNU/Linux enthusiast and hobby programmer
