@@ -2,7 +2,7 @@
 
 # Fetch  💻
 
-![fetch](https://raw.githubusercontent.com/egujito/egujito/main/cff.png) _cff on my system_
+![fetch](https://raw.githubusercontent.com/egujito/cff/master/cff.png) _cff on my system_
 
 # My rice 🍚
 
