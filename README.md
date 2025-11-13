@@ -16,5 +16,3 @@
 - [NeoVim](https://github.com/egujito/nvim) - personal config of Neovim.
 - [QTile](https://github.com/egujito/qtile) - config for the qtile window manager
 - [DWM](https://github.com/egujito/suckless-repos) - My build for dwm, dwmblocks and dmenu
-### 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=egujito&theme=gruvbox&layout=compact)
